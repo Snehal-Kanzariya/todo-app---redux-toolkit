@@ -1,0 +1,8 @@
+.navbar li {
+    justify-content: center;
+    width: 5rem;
+}
+
+a {
+    text-decoration: none;
+}
